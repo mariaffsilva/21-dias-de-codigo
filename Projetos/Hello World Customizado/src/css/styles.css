@@ -1,13 +1,12 @@
 body {
   background-image: url(../images/fundo1.gif);
-  background-size: cover;
-  background-repeat: no-repeat;
+background-size:cover;
   color: #dfe0e4;
-  font-family: 'Londrina Shadow', cursive;
+  font-family: 'Calistoga', cursive;
 }
 
 h1 {
-  font-size: 150px;
+  font-size: 140px;
   text-align: center;
   color: #fff;
   animation: glow 1s ease-in-out infinite alternate;
