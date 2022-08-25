@@ -1,0 +1,71 @@
+.btn-completo {
+  display: flex;
+  justify-content: center;
+}
+
+.player-ctrl {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  height: 100vh;
+}
+
+button a {
+  background-image: radial-gradient(
+    circle at -20.44% 56.16%,
+    #ff57d3 0,
+    #ff4ddb 12.5%,
+    #ef45e3 25%,
+    #d53feb 37.5%,
+    #b53cf2 50%,
+    #8c3cf9 62.5%,
+    #5140ff 75%,
+    #0046ff 87.5%,
+    #004bff 100%
+  );
+  border-radius: 10px;
+  color: #ffff;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 22px;
+  width: 200px;
+  cursor: pointer;
+  box-shadow: 0 10px #ffff;
+  z-index: 100;
+}
+
+button a:hover {
+  background-image: radial-gradient(
+    circle at -20.44% 56.16%,
+    #ff57d3 0,
+    #ff4ddb 12.5%,
+    #ef45e3 25%,
+    #d53feb 37.5%,
+    #b53cf2 50%,
+    #8c3cf9 62.5%,
+    #5140ff 75%,
+    #0046ff 87.5%,
+    #004bff 100%
+  );
+  box-shadow: 0 10px #ffff, 0 0 10px #ffff, 0 0 40px #ffff, 0 0 80px #ffff;
+  transform: scale(1.1, 1.1);
+  transition-duration: 0.5s;
+}
+
+.bg_video {
+  position: fixed;
+}
+
+@media (min-aspect-ratio: 16/20) {
+  .bg_video {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-aspect-ratio: 16/9) {
+  .bg_video {
+    width: auto;
+    height: 100%;
+  }
+}

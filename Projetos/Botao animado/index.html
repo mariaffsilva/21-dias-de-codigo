@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/css/style.css">
+    <link rel="stylesheet" href="src/css/reset.css">
+    <title>Botão Animado</title>
+</head>
+  <body>
+
+    <div class="btn-completo">
+      <div>
+
+        <button class="player-ctrl">
+          <a id="btn-play" onclick="playShow()">Play</a>
+          <a id="btn-pause" onclick="pauseShow()" style="display: none;">Pause</a>
+        </button>
+
+          <audio id="audio-musica">
+            <source src="src/audio/Save Your Tears.mp3" type="audio/mp3">
+          </audio>
+
+      </div>
+
+          <video loop muted poster="src/images/bg.png" class="bg_video" id="video-background">
+            <source src="./src/video/bg.mp4" type="video/mp4">
+            <a href="http://videezy.com">Filmagens de stock por Videezy</a>
+          </video>
+
+    </div>
+
+    <script src="src/js/index.js"></script>
+    
+</body>
+</html>
