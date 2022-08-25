@@ -1,4 +1,4 @@
-<h1 align="center" id="desafio-21-dias"> 21 DIAS DE CÓDIGO </h1>
+<h1 align="center" id="desafio-21-dias"> 21 DIAS DE CÓDIGO 🚀</h1>
 
 Esse repositório foi feito para armazenar os projetos que serão desenvolvidos durante o desafio de 21 dias de código proposto pela Rocketseat. 
 
@@ -6,8 +6,8 @@ Esse desafio consiste em realizar um projeto por dia e codar por pelo menos 1 ho
 
 ## :dart: Desafios
 
- - [ ] Dia 1  - Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.
- - [ ] Dia 2  - Fazer um Hello World customizado com fontes, cores e imagens.
+ :white_check_mark: Dia 1  - Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.<br>
+ :white_check_mark: Dia 2  - Fazer um Hello World customizado com fontes, cores e imagens.
  - [ ] Dia 3  - Criar um botão animado.
  - [ ] Dia 4  - Criar uma calculadora.
  - [ ] Dia 5  - Desenvolver uma página customizada que exiba o erro 404.
@@ -46,4 +46,4 @@ Esse desafio consiste em realizar um projeto por dia e codar por pelo menos 1 ho
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-:arrow_up:[ Voltar ao topo](#desafio-21-dias)<br>
+:arrow_up:[Voltar ao topo](#desafio-21-dias)<br>
