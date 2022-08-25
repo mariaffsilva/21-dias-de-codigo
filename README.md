@@ -7,8 +7,8 @@ Esse desafio consiste em realizar um projeto por dia e codar por pelo menos 1 ho
 ## :dart: Desafios
 
  :white_check_mark: Dia 1  - Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.<br>
- :white_check_mark: Dia 2  - Fazer um Hello World customizado com fontes, cores e imagens.
- - [ ] Dia 3  - Criar um botão animado.
+ :white_check_mark: Dia 2  - Fazer um Hello World customizado com fontes, cores e imagens.<br>
+ :white_check_mark: Dia 3  - Criar um botão animado.
  - [ ] Dia 4  - Criar uma calculadora.
  - [ ] Dia 5  - Desenvolver uma página customizada que exiba o erro 404.
  - [ ] Dia 6  - Criar um card com efeito glassmorphism.
