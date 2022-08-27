@@ -7,9 +7,9 @@ Esse desafio consiste em realizar um projeto por dia e codar por pelo menos 1 ho
 ## :dart: Desafios
 
  :white_check_mark: Dia 1  - Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.<br>
- :white_check_mark: Dia 2  - Fazer um Hello World customizado com fontes, cores e imagens.<br>
- :white_check_mark: Dia 3  - Criar um botão animado.
- - [ ] Dia 4  - Criar uma calculadora.
+ :white_check_mark: Dia 2  - Fazer um Hello World customizado com fontes, cores e imagens. (Acesse o site [aqui](https://calculadora-mariaffsilva.netlify.app/).) <br>
+ :white_check_mark: Dia 3  - Criar um botão animado. (Acesse o site [aqui](https://botaoanimado-mariaffsilva.netlify.app/).) <br>
+ :white_check_mark: Dia 4  - Criar uma calculadora. (Acesse o site [aqui](https://calculadora-mariaffsilva.netlify.app/).)
  - [ ] Dia 5  - Desenvolver uma página customizada que exiba o erro 404.
  - [ ] Dia 6  - Criar um card com efeito glassmorphism.
  - [ ] Dia 7  - Desenvolver um contador.
