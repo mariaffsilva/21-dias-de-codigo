@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+  background-color: #fbf8f1;
+}
+
+.erro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.erro h1 {
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20vmin;
+  line-height: 20vmin;
+}
+
+.gradiente {
+  color: transparent;
+  background: conic-gradient(
+    #57b2a3 12%,
+    #1d6c5f 12%,
+    #1d6c5f 33%,
+    #34b29b 33%,
+    #34b29b 55%,
+    #1b403a 55%,
+    #377d71 70%,
+    #669f96 70%,
+    #0f342d 87%,
+    #2d897a 87%
+  );
+  background-size: 50%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: expand-rev 0.5s ease forwards;
+  cursor: pointer;
+}
+
+.gradiente:hover {
+  animation: expand 0.5s ease forwards;
+}
+
+@keyframes expand {
+  0% {
+    background-size: 50%;
+    background-position: 0 0;
+  }
+  20% {
+    background-size: 55%;
+    background-position: 0 1em;
+  }
+  100% {
+    background-size: 325%;
+    background-position: -10em -4em;
+  }
+}
+
+@keyframes expand-rev {
+  0% {
+    background-size: 325%;
+    background-position: -10em -4em;
+  }
+  20% {
+    background-size: 55%;
+    background-position: 0 1em;
+  }
+  100% {
+    background-size: 50%;
+    background-position: 0 0;
+  }
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero .static-txt {
+  color: #1d6c5f;
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.frases {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.frases .dynamic-txts {
+  margin-left: 15px;
+  height: 90px;
+  line-height: 90px;
+  overflow: hidden;
+}
+
+.dynamic-txts li {
+  list-style: none;
+  color: #16f37d;
+  font-size: 23px;
+  font-weight: 500;
+  position: relative;
+  top: 0;
+  animation: slide 12s steps(4) infinite;
+}
+
+@keyframes slide {
+  100% {
+    top: -360px;
+  }
+}
+
+.dynamic-txts li span {
+  position: relative;
+  margin: 5px 0;
+  line-height: 90px;
+}
+.dynamic-txts li span::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  height: 230%;
+  width: 100%;
+  background: #fbf8f1;
+  border-left: 2px solid #16f37d;
+  animation: typing 3s steps(10) infinite;
+}
+
+@keyframes typing {
+  40%,
+  60% {
+    left: calc(100% + 30px);
+  }
+
+  100% {
+    left: 0;
+  }
+}
+
+.gif {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.gif img {
+  height: 270px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #1d6c5f;
+  border-radius: 10px;
+  width: 150px;
+  background-color: #fbf8f1;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 150px;
+  bottom: 0;
+  left: 850px;
+  height: 40px;
+  position: fixed;
+}
+
+.btn a {
+  color: #1d6c5f;
+}
+
+.custom-shape-divider-bottom-1661906251 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1661906251 svg {
+  position: relative;
+  display: block;
+  width: calc(118% + 1.3px);
+  height: 111px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1661906251 .shape-fill {
+  fill: #1d6c5f;
+}
