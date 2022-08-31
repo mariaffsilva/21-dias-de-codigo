@@ -9,8 +9,8 @@ Esse desafio consiste em realizar um projeto por dia e codar por pelo menos 1 ho
  :white_check_mark: Dia 1  - Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.<br>
  :white_check_mark: Dia 2  - Fazer um Hello World customizado com fontes, cores e imagens. (Acesse o site [aqui](https://calculadora-mariaffsilva.netlify.app/).) <br>
  :white_check_mark: Dia 3  - Criar um botão animado. (Acesse o site [aqui](https://botaoanimado-mariaffsilva.netlify.app/).) <br>
- :white_check_mark: Dia 4  - Criar uma calculadora. (Acesse o site [aqui](https://calculadora-mariaffsilva.netlify.app/).)
- - [ ] Dia 5  - Desenvolver uma página customizada que exiba o erro 404.
+ :white_check_mark: Dia 4  - Criar uma calculadora. (Acesse o site [aqui](https://calculadora-mariaffsilva.netlify.app/).) <br>
+ :white_check_mark: Dia 5  - Desenvolver uma página customizada que exiba o erro 404. (Acesse o site [aqui](https://error-404-mariaffsilva.netlify.app).)
  - [ ] Dia 6  - Criar um card com efeito glassmorphism.
  - [ ] Dia 7  - Desenvolver um contador.
  - [ ] Dia 8  - Desenvolver um toggle que altere o tema para claro e escuro.
