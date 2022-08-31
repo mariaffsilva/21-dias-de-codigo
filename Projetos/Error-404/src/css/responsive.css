@@ -1,0 +1,117 @@
+@media (max-width: 1025px) {
+  .erro h1 {
+    font-size: 20vmin;
+  }
+
+  .dynamic-txts li {
+    font-size: 25px;
+  }
+
+  .dynamic-txts li span::after {
+    height: 250%;
+  }
+
+  .gif {
+    margin-top: 3px;
+  }
+
+  .gif img {
+    height: 230px;
+  }
+
+  .btn {
+    margin-bottom: 130px;
+    left: 430px;
+  }
+}
+
+@media (max-width: 415px) {
+  .hero .static-txt {
+    font-size: 24px;
+  }
+
+  .dynamic-txts li {
+    font-size: 25px;
+  }
+
+  .dynamic-txts li span::after {
+    height: 230%;
+  }
+
+  .gif {
+    margin-top: 30px;
+  }
+
+  .gif img {
+    height: 250px;
+  }
+
+  .btn {
+    margin-bottom: 130px;
+    left: 120px;
+  }
+}
+
+@media (max-width: 413px) {
+  .gif {
+    margin-top: 5px;
+  }
+
+  .gif img {
+    height: 250px;
+  }
+
+  .btn {
+    margin-bottom: 120px;
+  }
+}
+
+@media (max-width: 394px) {
+  .erro h1 {
+    font-size: 23vmin;
+  }
+
+  .hero .static-txt {
+    font-size: 23px;
+  }
+
+  .gif img {
+    height: 230px;
+  }
+
+  .btn {
+    margin-bottom: 115px;
+    left: 110px;
+  }
+}
+
+@media (max-width: 361px) {
+  .erro h1 {
+    font-size: 23vmin;
+  }
+
+  .hero .static-txt {
+    font-size: 21px;
+  }
+
+  .dynamic-txts li {
+    font-size: 23px;
+  }
+
+  .dynamic-txts li span::after {
+    height: 230%;
+  }
+
+  .gif {
+    margin-top: 5px;
+  }
+
+  .gif img {
+    height: 200px;
+  }
+
+  .btn {
+    margin-bottom: 110px;
+    left: 110px;
+  }
+}
